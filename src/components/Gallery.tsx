@@ -49,10 +49,10 @@ export default function Gallery() {
 
           <div className="relative">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
-              {photos.slice(0, 8).map((photo, i) => (
+              {photos.map((photo, i) => (
                 <div
                   key={i}
-                  className={`gallery-item relative group cursor-pointer ${i === 0 ? 'col-span-2 row-span-2' : ''}`}
+                  className="gallery-item relative group cursor-pointer"
                   onClick={() => {
                     setCurrentIndex(i);
                     openLightbox();
@@ -62,7 +62,7 @@ export default function Gallery() {
                     src={photo.src}
                     alt={photo.alt}
                     className="w-full h-full object-cover rounded-lg"
-                    style={{ minHeight: i === 0 ? '400px' : '180px' }}
+                    style={{ minHeight: '180px', height: '180px' }}
                     loading="lazy"
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">

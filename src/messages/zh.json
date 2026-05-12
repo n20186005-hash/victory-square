@@ -226,7 +226,13 @@
     "terms": "服务条款",
     "cookies": "Cookie 设置",
     "officialResourcesTitle": "相关资源与资讯",
-    "officialLinks": {"council": "蒂米什瓦拉旅游局", "tourism": "罗马尼亚旅游", "england": "Visit Timișoara"},
+    "links": [
+      {"name": "罗马尼亚旅游局", "url": "https://romaniatourism.com/"},
+      {"name": "国家旅游组织", "url": "https://www.serbia.travel/en"},
+      {"name": "塞尔维亚政府", "url": "https://www.srbija.gov.rs/"},
+      {"name": "蒂米什瓦拉旅游", "url": "https://timisoara-info.ro/en/"},
+      {"name": "CIMEC", "url": "https://patrimoniu.ro/"}
+    ],
     "disclaimer": "本网站是一个独立的第三方旅游资讯项目。"
   },
   "privacy": {

@@ -195,7 +195,13 @@
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Related Resources",
-    "officialLinks": {"council": "Timisoara Tourism", "tourism": "Romania Travel", "england": "Visit Timisoara"},
+    "links": [
+      {"name": "Romania Tourism", "url": "https://romaniatourism.com/"},
+      {"name": "National Tourism Organization", "url": "https://www.serbia.travel/en"},
+      {"name": "Government of Serbia", "url": "https://www.srbija.gov.rs/"},
+      {"name": "Visit Timișoara", "url": "https://timisoara-info.ro/en/"},
+      {"name": "CIMEC", "url": "https://patrimoniu.ro/"}
+    ],
     "disclaimer": "Independent third-party travel information."
   },
   "privacy": {

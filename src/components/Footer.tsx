@@ -1,10 +1,13 @@
-import { useTranslations } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 import { useLocale } from 'next-intl';
 
 export default function Footer() {
   const t = useTranslations('footer');
+  const messages = useMessages() as any;
   const locale = useLocale();
   const prefix = locale === 'en' ? '' : `/${locale}`;
+
+  const links = (messages?.footer?.links || []) as Array<{ name: string; url: string }>;
 
   return (
     <footer
@@ -15,21 +18,24 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row justify-between items-start gap-8 mb-8">
           <div className="max-w-md">
             <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
-              Warsaw Uprising Monument
+              Victory Square Timișoara
             </h3>
             <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
               {t('officialResourcesTitle')}
             </p>
             <div className="flex flex-col gap-2">
-              <a href="https://www.warsawtour.pl/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.council')}
-              </a>
-              <a href="https://www.poland.travel/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.tourism')}
-              </a>
-              <a href="https://www.warsawtour.pl/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.england')}
-              </a>
+              {links.map((link, i) => (
+                <a
+                  key={i}
+                  href={link.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:underline text-sm"
+                  style={{ color: 'var(--accent)' }}
+                >
+                  {link.name}
+                </a>
+              ))}
             </div>
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
