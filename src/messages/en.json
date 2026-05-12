@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "title": "Victory Square | Timisoara Romania - 1989 Revolution Birthplace",
+    "description": "Complete guide to Victory Square in Timisoara. Opening hours, transportation, tickets, tour tips."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Victory Square",
+    "subtitle": "Timisoara City Heart - 1989 Revolution Birthplace - Architectural Masterpiece",
+    "rating": "4.5(12,000)",
+    "reviewCount": "12,000 reviews",
+    "hours": "Open 24/7",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover Victory Square",
+    "description": "Walking into Victory Square, you will be enveloped by a rich historical atmosphere and architectural beauty. This cobblestone pedestrian corridor reads like a European architectural history book.\n\nOn a summer evening, sunset gilds the facades with golden light. Baroque reliefs and Art Nouveau ironwork appear exquisite. The central fountain splashes, and the She-Wolf statue tells Romania story.\n\nWhen night falls, lights outline building contours, transforming the square into a romantic nightlife stage.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Weekday mornings or evenings for fewer crowds",
+        "Public areas free to access",
+        "Opera House and Cathedral require separate tickets",
+        "Cobblestone surfaces - comfortable shoes recommended"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Birthplace of 1989 Revolution, Cradle of Freedom",
+        "480-meter pedestrian corridor, architectural museum",
+        "Baroque, Neo-Renaissance, Vienna Secession, Neo-Moorish",
+        "Cultural capital of Western Romania, Little Vienna"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "The Charm of Victory Square",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Significance",
+        "content": "Victory Square originated as a parade ground in the 18th century and was redesigned in 1910 by architect Ludwig von Ybl. Orthodox Cathedral completed in the 1930s.\n\nOn December 20, 1989, the Romanian Revolution erupted. Tens of thousands gathered, declaring Timisoara the first free city. The square was renamed Victory Square with a cross monument.\n\nOver centuries, it transformed from a royal parade ground to a symbol of freedom."
+      },
+      {
+        "id": "architecture",
+        "title": "Architectural Features",
+        "content": "480-meter pedestrian square bounded by National Opera House (north) and Orthodox Cathedral (south). Baroque palaces, Vienna Secession apartments, Neo-Renaissance theaters flank both sides.\n\nNorthern section features Neo-Renaissance, Baroque, Vienna Secession. Southern Cathedral displays Neo-Moorish architecture with red brick and colorful domes."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "Romania national spiritual symbol. During 1989 Revolution, tens of thousands declared Timisoara the first free city.\n\nHosts JazzTM Festival, Timfloralis Exhibition, Opera Festival, Christmas Market. Surrounded by museums, galleries, theaters, cafes."
+      },
+      {
+        "id": "experience",
+        "title": "Core Experience",
+        "content": "Walking into Victory Square, you are enveloped by history and architectural beauty.\n\nSunset gilds facades with golden light. Baroque reliefs and Art Nouveau ironwork appear exquisite. Fountain splashes, She-Wolf stands silently.\n\nAt night, lights outline contours, transforming the square into a romantic nightlife stage."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Piața Victoriei (Victory Square)",
+    "type": "Type",
+    "typeValue": "City Square, Historical Landmark, Revolution Memorial",
+    "country": "Country",
+    "countryValue": "Romania",
+    "city": "City",
+    "cityValue": "Timisoara (Timis County)",
+    "googleRating": "Google Rating",
+    "phone": "Phone",
+    "address": "Address",
+    "addressValue": "Piața Victoriei, Timisoara 300006, Romania"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Square Public Areas",
+    "outdoorTime": "Open 24/7, no restrictions",
+    "lighthouse": "Surrounding Venues",
+    "summer": "Tuesday - Sunday",
+    "summerTime": "10:00-18:00",
+    "winter": "Monday Closure",
+    "winterTime": "Closed Mondays",
+    "warning": "Special Notice",
+    "warningTime": "Weekday mornings or evenings recommended",
+    "tip": "Sun protection in summer; wind protection in winter"
+  },
+  "tickets": {
+    "title": "Ticket Prices",
+    "outdoor": "Square Public Areas",
+    "outdoorPrice": "Free admission",
+    "lighthouse": "Opera House and Cathedral",
+    "adults": "Adults",
+    "adultsPrice": "Standard pricing",
+    "students": "Students and Seniors",
+    "studentsPrice": "Discount pricing",
+    "children": "Children",
+    "childrenPrice": "Free",
+    "card": "Timisoara City Card",
+    "cardPrice": "Valid for discounts"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "airport": "From Timisoara Airport",
+    "airportDesc": "Airport shuttle to city center, tram 1/2/3 to Victory Square. Total 25 minutes.",
+    "selfDrive": "Self-Drive / Rideshare",
+    "selfDriveDesc": "Rideshare directly to square recommended.",
+    "bus": "From Central Station",
+    "busDesc": "Tram 1/2/4, 10 minutes to station, 3-minute walk.",
+    "intercity": "From Major Attractions",
+    "intercityDesc": "Walking from Union Square, Freedom Square, Bega River.",
+    "cycling": "Cycling",
+    "cyclingDesc": "Public bike stations near square.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Purchase day pass for unlimited tram and bus rides."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "supplementsTitle": "Visit Tips",
+    "overview": "Evening visit recommended. Enter from north Opera House, stroll to fountain, explore Corso and Surogat streets, view Cathedral, relax at cafe. About 1.5 hours.",
+    "steps": [
+      "Enter Victory Square from north",
+      "View Opera House facade",
+      "Stroll along cobblestone path",
+      "Visit fountain and She-Wolf statue",
+      "Explore Corso pedestrian street",
+      "Explore Surogat street for cafes",
+      "View Orthodox Cathedral at south end",
+      "Relax at outdoor cafe"
+    ],
+    "supplements": [
+      "Comfortable shoes recommended",
+      "Sun protection in summer",
+      "Respect historic buildings",
+      "Maintain quiet atmosphere",
+      "Outdoor concerts and art exhibitions held during summer"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {"name": "Opera House Front", "desc": "Symmetrical composition of Neo-Renaissance theater"},
+      {"name": "Central Fountain", "desc": "Fountain foreground, buildings background"},
+      {"name": "Orthodox Cathedral", "desc": "Red brick domes and towers"},
+      {"name": "Corso Street", "desc": "Colorful facades perspective"},
+      {"name": "She-Wolf Statue", "desc": "Statue close-up details"}
+    ],
+    "tips": "Photography Tips",
+    "tipsContent": "Natural light abundant. No drones allowed."
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {"name": "Elegant and Affordable", "desc": "Boutique hotels in square area", "price": "Varies"},
+      {"name": "Design Choice", "desc": "Modern hotels near Bega River", "price": "Varies"},
+      {"name": "Unique Experience", "desc": "Baroque mansion in old town", "price": "Varies"},
+      {"name": "Budget Option", "desc": "Hotels near Central Station", "price": "Varies"}
+    ],
+    "supplements": "Tips",
+    "supplementsContent": "Timisoara is safe. Book in advance during peak season."
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Timisoara Victory Square",
+    "captions": ["Square Panorama", "Opera House", "Cathedral", "Fountain", "She-Wolf Statue", "Corso Street", "Details", "Evening"],
+    "viewAll": "View on Google Maps"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Reviews on Google Maps.",
+    "moreReviews": "View more reviews",
+    "items": [
+      {"name": "John M.", "date": "April 2026", "rating": 5, "text": "Stunning! Like a European architectural history book."},
+      {"name": "Maria K.", "date": "March 2026", "rating": 5, "text": "Birthplace of 1989 Revolution, full of history."},
+      {"name": "David L.", "date": "February 2026", "rating": 5, "text": "Little Vienna well-deserved! Great for photos."},
+      {"name": "Sarah W.", "date": "January 2026", "rating": 4, "text": "Wonderful square with captivating architecture."}
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "Piața Victoriei, Timisoara 300006, Romania",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "2026 Timisoara Victory Square Independent Travel Research Association.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources",
+    "officialLinks": {"council": "Timisoara Tourism", "tourism": "Romania Travel", "england": "Visit Timisoara"},
+    "disclaimer": "Independent third-party travel information."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "May 2026",
+    "sections": [
+      {"heading": "1. Information Collection", "content": "We do not actively collect personal information."},
+      {"heading": "2. Information Use", "content": "Information used to improve services only."},
+      {"heading": "3. Cookies", "content": "We use cookies. You can refuse all cookies."},
+      {"heading": "4. Data Security", "content": "We protect your data using acceptable means."}
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "May 2026",
+    "sections": [
+      {"heading": "1. Acceptance", "content": "By using this site, you agree to these terms."},
+      {"heading": "2. Service Use", "content": "Independent third-party travel information."},
+      {"heading": "3. Intellectual Property", "content": "All content is property of the website owner."},
+      {"heading": "4. Limitation", "content": "Not liable for damages from using this site."}
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your preferences.",
+    "essential": {"title": "Essential Cookies", "description": "Basic functionality.", "badge": "Always active"},
+    "analytics": {"title": "Analytics Cookies", "description": "Visitor interactions."},
+    "marketing": {"title": "Marketing Cookies", "description": "Cross-site tracking."},
+    "save": "Save",
+    "saved": "Saved!"
+  },
+  "officialManagement": {
+    "title": "About Victory Square",
+    "text": "Victory Square is the heart of Timisoara and birthplace of Romania 1989 Revolution, known as the Cradle of Freedom. Managed by Timisoara City Government.\n\nWitnesses transformation from Austro-Hungarian era to modern Romania. Hosts JazzTM Festival, Timfloralis, Opera Festival, Christmas Market. Free and open to all."
+  },
+  "recommendations": {
+    "title": "Discover More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours",
+    "attractions": [
+      {"name": "Union Square", "url": "https://www.timisoara.travel"},
+      {"name": "Freedom Square", "url": "https://www.timisoara.travel"},
+      {"name": "Bega River", "url": "https://www.timisoara.travel"},
+      {"name": "Old Town", "url": "https://www.timisoara.travel"}
+    ],
+    "tours": [
+      {"name": "Historical Walking Tour", "url": "https://www.timisoara.travel"},
+      {"name": "Architecture Tour", "url": "https://www.timisoara.travel"},
+      {"name": "Revolution Tour", "url": "https://www.timisoara.travel"},
+      {"name": "City Tour", "url": "https://www.timisoara.travel"}
+    ]
+  }
+}
